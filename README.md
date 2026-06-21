@@ -1,136 +1,304 @@
-# justin-kyu-
-Independent AI Security Researcher | Adversarial Prompt Engineering | LLM Evaluation | AI Safety Research
-# Justin Kyu
+Justin Kyu's Development Portfolio
 
-Independent AI security researcher and published author focused on adversarial prompt engineering, prompt injection analysis, exploratory LLM testing, and large language model robustness evaluation.
+About Me
 
----
+My name is Justin Kyu.
 
-## Research Focus
+I am a self-taught developer, cybersecurity student, technical writer, and systems builder. I primarily develop from a Samsung Galaxy S23 using Termux, Git, Python, Linux utilities, and cloud infrastructure. My focus is not on building one large application, but on creating an ecosystem of small, useful, interconnected tools that solve real problems.
 
-- Adversarial Prompt Engineering
-- Prompt Injection Analysis
-- Exploratory LLM Testing
-- AI Safety Evaluation
-- Behavioral Failure Mode Analysis
-- AI Red Team Methodologies
-- LLM Robustness Research
-- Adversarial Evaluation Methodologies
+Over the past several weeks I have been working on a collection of projects involving:
 
----
+- Cybersecurity education
+- Knowledge management systems
+- AI-assisted publishing workflows
+- Offline-first web applications
+- Mobile-first development
+- Local LLM experimentation
+- Cloud infrastructure and networking
+- Automation pipelines
+- Open-source learning tools
 
-## Current Projects
+The goal is simple:
 
-### LLM Prompt Injection Suite
-Framework for evaluating prompt injection resilience and adversarial instruction handling in large language models.
-
-### Adversarial Prompt Taxonomy
-Structured categorization and analysis of prompt injection methodologies, jailbreak patterns, and behavioral failure modes.
-
-### LLM Safety Evals
-Evaluation scripts and testing pipelines for refusal behavior, instruction hierarchy integrity, alignment robustness, and response consistency.
-
-### Prompt Fuzzer
-Experimental tooling for automated adversarial prompt mutation and behavioral stress testing.
-
-### AI Red Team Notes
-Open research notes, case studies, testing observations, and experimental methodologies related to AI safety and adversarial evaluation.
+«Build useful tools, learn in public, and continuously improve through iteration.»
 
 ---
 
-## Publications
+Current Areas of Focus
 
-- *Adversarial Prompt Engineering in Theory and Practice* — Justin Kyu
-- *Deep Dive Exploratory Testing and Bug Discovery in Prompt Engineering* — Justin Kyu
+Cybersecurity
 
----
+I am actively studying:
 
-## Technical Interests
+- CompTIA A+
+- Network+
+- Security+
+- Linux+
 
-```txt
-Python
-Linux
-AI Security
-Prompt Injection
-Automation
-API Integration
-LLM Evaluation
-Behavioral Analysis
-Network Security
-CLI Tooling
-Research Methodology
-Adversarial Testing
-```
+While studying, I build practical tools and reference systems to reinforce concepts through repetition and hands-on experimentation.
 
----
+Current work includes:
 
-## Research Goals
+- Security Academy
+- SOC-KIT (Socket)
+- LLM Security Projects
+- Cybersecurity Taxonomy Development
+- Incident Response Training Material
+- Detection Engineering References
+- Windows Event ID Collections
+- MITRE ATT&CK Mapping
 
-Building open-source tools, testing methodologies, and evaluation frameworks for analyzing and improving the robustness, safety, and adversarial resistance of large language models.
-
-Current areas of interest include:
-- Prompt injection resilience
-- Behavioral consistency testing
-- Alignment stress testing
-- Adversarial prompt mutation
-- Failure mode discovery
-- LLM evaluation automation
-- AI red team methodologies
+Rather than memorizing facts, I try to transform information into interactive systems that make learning easier and more engaging.
 
 ---
 
-## Philosophy
+Pipe Dream Factory
 
-Effective AI safety research requires rigorous experimentation, transparent methodology, reproducible testing, and responsible disclosure practices.
+One of my primary projects is Pipe Dream Factory.
 
-The goal of this work is to contribute toward safer, more robust, and more reliable AI systems through structured adversarial evaluation and behavioral analysis.
+Pipe Dream Factory is a publishing and content-generation pipeline designed to automate the process of transforming research notes into structured books.
 
----
+Current pipeline:
 
-## Ethical Use Statement
+Vault Notes
+↓
+Content Refinement
+↓
+Chapter Generation
+↓
+Book Assembly
+↓
+Markdown Output
+↓
+Future PDF Generation
 
-All projects, experiments, and research published here are intended strictly for:
-- Defensive security research
-- AI safety evaluation
-- Adversarial robustness testing
-- Educational purposes
-- Responsible disclosure and analysis
+Components include:
 
-No work published here is intended to facilitate malicious activity or unauthorized access.
+- chapter_builder.py
+- book_assembler.py
+- pipeline.py
+- refine_vault.py
 
----
-
-## Currently Learning
-
-- Advanced Python Development
-- LLM Evaluation Pipelines
-- Transformer Architectures
-- AI Red Team Methodologies
-- Open-source ML Tooling
-- Dataset Engineering
-- Automated Evaluation Systems
+The long-term objective is to create a publishing system capable of turning structured knowledge into books, training manuals, and educational content with minimal manual effort.
 
 ---
 
-## Future Repository Roadmap
+MicroPublisher
 
-```txt
-llm-prompt-injection-suite
-adversarial-prompt-taxonomy
-llm-safety-evals
-prompt-fuzzer
-ai-redteam-notes
-behavioral-failure-analysis
-alignment-stress-testing
-```
+MicroPublisher is an experimental publishing platform focused on:
+
+- Mobile-first workflows
+- Offline-first operation
+- Simplicity
+- Fast content creation
+
+Planned features include:
+
+- Book templates
+- Cover generation
+- Chapter management
+- PDF export
+- KDP-friendly formatting
+- One-click publishing workflows
+
+The project reflects my broader philosophy:
+
+«Publishing knowledge should be easier than creating bureaucracy.»
 
 ---
 
-## Contact
+Security Academy
 
-- GitHub Projects & Research Repositories: In Active Development
-- Independent Research Focus: AI Safety, Adversarial Prompt Engineering, and LLM Evaluation
+Security Academy is an educational project built around structured cybersecurity learning.
+
+Features include:
+
+- Beginner datasets
+- Intermediate datasets
+- Advanced datasets
+- Top-100 security concepts
+- Scenario-based learning
+- Flashcard-style review systems
+- Practical examples
+
+The project is intended to become a self-paced cybersecurity learning environment.
 
 ---
 
-> “Robust systems are built by understanding how they fail.”
+SOC-KIT (Socket)
+
+SOC-KIT began as a Security Operations Center reference tool.
+
+The vision has evolved into:
+
+- Offline-first
+- Local-first
+- No login required
+- Mobile-friendly
+- Cybersecurity learning RPG
+
+Future versions will include:
+
+- Incident response scenarios
+- Threat hunting exercises
+- Ticket workflows
+- Detection engineering concepts
+- Playbooks
+- Interactive learning paths
+
+The objective is to make cybersecurity training more engaging and accessible.
+
+---
+
+AI and LLM Projects
+
+Current experiments include:
+
+KyuLLM
+
+A lightweight local-LLM framework designed for learning and experimentation.
+
+Areas of interest:
+
+- Local model hosting
+- Ollama integration
+- Prompt engineering
+- Memory systems
+- AI tooling
+
+LLM Security Projects
+
+Current repositories explore:
+
+- Prompt injection
+- AI security testing
+- Model evaluation
+- Security taxonomy development
+- Threat modeling
+
+The goal is to understand both the capabilities and limitations of modern AI systems.
+
+---
+
+Development Philosophy
+
+Most modern software becomes complicated long before it becomes useful.
+
+My personal design principles are:
+
+Keep It Simple
+
+Complexity should only exist when it provides value.
+
+Make It Useful
+
+A small useful tool beats a large unfinished platform.
+
+Mobile First
+
+If it cannot work on a phone, it is missing a major audience.
+
+Offline First
+
+Tools should continue working without requiring constant internet access.
+
+Show, Don't Tell
+
+Users should discover value through interaction.
+
+Good Toys Stand Alone
+
+Every project should provide value independently.
+
+Great Tools Work Together
+
+The real power comes from interoperability.
+
+---
+
+Current Infrastructure
+
+Development Environment:
+
+- Samsung Galaxy S23
+- Termux
+- Git
+- Python
+- Linux CLI tools
+- SSH
+- GitHub
+
+Cloud Environment:
+
+- Oracle Cloud experiments
+- AWS training and exploration
+- Linux server administration
+- Networking practice
+- Infrastructure fundamentals
+
+---
+
+What I'm Learning Right Now
+
+Current topics include:
+
+- Linux Administration
+- Networking
+- IPv4 / IPv6
+- Cloud Computing
+- Python Development
+- Cybersecurity Operations
+- Threat Detection
+- Incident Response
+- AI Security
+- Local LLM Deployment
+- Publishing Automation
+- Knowledge Management
+
+---
+
+Roadmap
+
+Upcoming goals:
+
+Short Term
+
+- Improve repository documentation
+- Create project releases
+- Add screenshots and demonstrations
+- Publish stable versions
+- Improve onboarding documentation
+
+Medium Term
+
+- Expand Security Academy
+- Expand SOC-KIT
+- Complete MicroPublisher improvements
+- Improve publishing automation
+- Release educational cybersecurity content
+
+Long Term
+
+- Build a complete ecosystem of educational and productivity tools.
+- Publish books and learning resources.
+- Create accessible cybersecurity education systems.
+- Develop practical AI-assisted workflows.
+- Continue learning publicly and sharing progress.
+
+---
+
+Why This Repository Exists
+
+This repository is part of a larger personal journey.
+
+I did not come from a traditional computer science background.
+
+Everything here represents learning through experimentation, curiosity, persistence, and continuous iteration.
+
+Some projects are complete.
+Some are prototypes.
+Some are ideas still evolving.
+
+Every repository reflects a step forward.
+
+If you're interested in cybersecurity, automation, publishing systems, AI tooling, or unconventional development workflows, feel free to explore the projects and follow along as they evolve.
